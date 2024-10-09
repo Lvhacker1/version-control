@@ -7,7 +7,7 @@ html {
 }
 
 body {
-    background-color: rgb(178, 178, 168);
+    background-color: #596475;
     margin: 0;
     min-height: 100%;
 }
@@ -32,13 +32,14 @@ body {
 }
 
 .git-commands_command {
-    background-color: beige;
+    background-color: #FDE8E9;
     padding: 16px;
+    font-size: 1.7rem;
 }
 
 
 .git-commands_effect {
-    background-color: beige;
+    background-color: #BC9EC1;
     padding: 16px;
     font-size: 1.5 rem;
 }
